@@ -38,4 +38,3 @@ Overall, our group worked well together and we didn't face any major hurdles. Ou
 ## What I Learned
 
 During this project, I learned a lot about the messiness of real world data and vague business problems. Before this assignment, I don't think I realized how big of a difference there is between the toy examples we use in class and actual analytics problems.
-actual analytics projects. 
